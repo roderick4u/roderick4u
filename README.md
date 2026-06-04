@@ -13,4 +13,3 @@
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/rodrigo-alomel
-[instagram]: https://www.instagram.com/roddalons/
