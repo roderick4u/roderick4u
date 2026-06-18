@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Library Loan Management System (Java/Swing) </b>
-  - [Full-stack library management system built in Java with a Swing GUI, implementing the MVC + Repository pattern across 6 packages. Features CRUD for books and students, multi-book loan management with stock tracking, overdue fine calculation, role-based authentication (Admin/Operator) with SHA-256 password hashing, and file-based data persistence via Java serialization. Includes sortable tables using Comparator, loan filtering by date/student/status, and reporting on overdue and cancelled loans.](https://github.com/roderick4u/BibliotecaCRUD)
+<ul>
+  <li>
+    <b><a href="https://github.com/roderick4u/BibliotecaCRUD">Library Loan Management System (Java/Swing)</a></b>
+    <p>Full-stack library management system built in Java with a Swing GUI, implementing the MVC + Repository pattern across 6 packages. Features CRUD for books and students, multi-book loan management with stock tracking, overdue fine calculation, role-based authentication (Admin/Operator) with SHA-256 password hashing, and file-based data persistence via Java serialization. Includes sortable tables using Comparator, loan filtering by date/student/status, and reporting on overdue and cancelled loans.</p>
+  </li>
+  <li>
 - <b>Matrix Animation (Java/UWCSE) </b>
   - [Java graphics animation project built with the UW CSE graphics library, featuring hand-drawn stick figure characters constructed from geometric primitives (Oval, Rectangle). Implements frame-by-frame movement animation using Thread.sleep(), bullet projectile motion, background image loading via ImageIO, and WAV audio playback synchronized with the animation sequence.](https://github.com/roderick4u/JavaAnimacion) 
 - <b>Ecosistema Logístico Inteligente (Java OOP)</b>
