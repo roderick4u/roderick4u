@@ -20,7 +20,7 @@
   
   <li>
     <b><a href="https://github.com/roderick4u/CalculadoraBasal">Basal Hydration Calculator (Pediatric – HTML/CSS/JS)</a></b>
-    <p>Pediatric fluid calculator using Holliday-Segar formula and body surface area..</p>
+    <p>Pediatric fluid calculator using Holliday-Segar formula and body surface area.</p>
   </li>
 </ul>
 
