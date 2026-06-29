@@ -5,7 +5,7 @@
 <ul>
   <li>
     <b><a href="https://github.com/roderick4u/BibliotecaCRUD">Library Loan Management System (Java/Swing)</a></b>
-    <p>Full-stack library management system built in Java with a Swing GUI, implementing the MVC + Repository pattern across 6 packages. Features CRUD for books and students, multi-book loan management with stock tracking, overdue fine calculation, role-based authentication (Admin/Operator) with SHA-256 password hashing, and file-based data persistence via Java serialization. Includes sortable tables using Comparator, loan filtering by date/student/status, and reporting on overdue and cancelled loans.</p>
+    <p>Full-stack library management system built in Java with a Swing GUI, implementing the MVC + Repository pattern . Features CRUD for books and students, multi-book loan management with stock tracking, overdue fine calculation, role-based authentication (Admin/Operator) with SHA-256 password hashing, and file-based data persistence via Java serialization. Includes sortable tables using Comparator, loan filtering by date/student/status, and reporting on overdue and cancelled loans.</p>
   </li>
   
   <li>
