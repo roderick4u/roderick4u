@@ -10,7 +10,7 @@
   
   <li>
     <b><a href="https://github.com/roderick4u/JavaAnimacion">Matrix Animation (Java/UWCSE)</a></b>
-    <p>Java graphics animation project built with the UWCSE graphics library, featuring hand-drawn stick figure characters constructed from geometric primitives (Oval, Rectangle). Implements frame-by-frame movement animation using Thread.sleep(), bullet projectile motion, background image loading via ImageIO, and WAV audio playback synchronized with the animation sequence.</p>
+    <p>Java graphics animation project built with the UWCSE graphics library, featuring hand-drawn stick figure characters constructed from geometric primitives (Oval, Rectangle). Implements frame-by-frame movement animation, bullet projectile motion, background image loading via ImageIO, and WAV audio playback synchronized with the animation sequence.</p>
   </li>
   
   <li>
