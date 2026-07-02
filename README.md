@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rod! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 <ul>
   <li>
